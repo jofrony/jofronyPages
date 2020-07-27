@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Multi-scale Analysis and Simulation in Neuroscience 
 
-You can use the [editor on GitHub](https://github.com/jofrony/jofronyPages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Microcircuit in silico 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Multi-scale simulation of striatum and multi-scale simulation tool, Snudda. 
+Expand into the nuclei of Basal Ganglia and the neuromodulation.
 
-### Markdown
+[Snudda](https://github.com/Hjorthmedh/Snudda) By Johannes Horth
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Neuromodulation 
 
-```markdown
-Syntax highlighted code block
+Simulation of ion channel modulation following neuromodulation. 
 
-# Header 1
-## Header 2
-### Header 3
+[Dopamine] (https://github.com/Hjorthmedh/Snudda) By Johannes Horth
+[Acetylcholine] (https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
+[Nitric oxide] (https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![Muscarinic and Nitric oxide modulation in the Striatum](graphicalabstract.png) _Frost Nylen et al 2020_
 
-**Bold** and _Italic_ and `Code` text
+#### Presynaptic and postsynaptic modulation of 
 
-[Link](url) and ![Image](src)
-```
+We simulate modulation of presynaptic input following dopamine transients and its effects on striatal processing 
+[Presynaptic] (https://github.com/Hjorthmedh/Snudda).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jofrony/jofronyPages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Publications
 
-### Support or Contact
+Frost Nylén, J, Carannante, I, Grillner, S, Hellgren Kotaleski, J. Reciprocal interaction between striatal cholinergic and low‐threshold spiking interneurons — A computational study. Eur J Neurosci. 2020; 00: 1– 14. https://doi.org/10.1111/ejn.14854
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+J. J. Johannes Hjorth, Alexander Kozlov, Ilaria Carannante, Johanna Frost Nylén, Robert Lindroos, Yvonne Johansson, Anna Tokarska, Matthijs C. Dorst, Shreyas M. Suryanarayana, Gilad Silberberg, Jeanette Hellgren Kotaleski, Sten Grillner Proceedings of the National Academy of Sciences Apr 2020, 117 (17) 9554-9565; DOI: 10.1073/pnas.2000671117
