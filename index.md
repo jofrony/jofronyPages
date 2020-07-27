@@ -16,7 +16,11 @@ Simulation of ion channel modulation following neuromodulation.
 [Nitric oxide] (https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
 
 
-![Muscarinic and Nitric oxide modulation in the Striatum](Graphical_abstract.png  | width=50) _Graphical abstract from Frost Nylen et al 2020_
+![Muscarinic and Nitric oxide modulation in the Striatum](Graphical_abstract.png) {
+  width: 70%;
+  border: none;
+  background: none;
+} _Graphical abstract from Frost Nylen et al 2020_
 
 #### Presynaptic and postsynaptic modulation of 
 
