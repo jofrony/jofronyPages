@@ -23,7 +23,7 @@ Graphical abstract from Frost Nylen et al 2020
 #### Presynaptic and postsynaptic modulation of corticostriatal input
 
 We simulate modulation of presynaptic input following dopamine transients and its effects on striatal processing 
-[Presynaptic] (https://github.com/Hjorthmedh/Snudda).
+[Presynaptic](https://github.com/Hjorthmedh/Snudda).
 
 
 
