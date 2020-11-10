@@ -5,15 +5,15 @@
 Multi-scale simulation of striatum and multi-scale simulation tool, Snudda. 
 Expand into the nuclei of Basal Ganglia and the neuromodulation.
 
-[Snudda](https://github.com/Hjorthmedh/Snudda) By Johannes Horth
+[Snudda](https://github.com/Hjorthmedh/Snudda) By Johannes Hjorth
 
 ### Neuromodulation 
 
 Simulation of ion channel modulation following neuromodulation. 
 
-[Dopamine] (https://github.com/Hjorthmedh/Snudda) By Johannes Horth
-[Acetylcholine] (https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
-[Nitric oxide] (https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
+[Dopamine](https://github.com/Hjorthmedh/Snudda) By Johannes Horth
+[Acetylcholine](https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
+[Nitric oxide](https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
 
 
 <img src="Graphical_abstract.png" alt="Muscarinic and Nitric oxide modulation in the Striatum" width="400"/>
