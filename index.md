@@ -11,7 +11,7 @@ Expand into the nuclei of Basal Ganglia and the neuromodulation.
 
 Simulation of ion channel modulation following neuromodulation. 
 
-* [Dopamine](https://github.com/Hjorthmedh/Snudda) By Johannes Horth
+* [Dopamine](https://github.com/Hjorthmedh/Snudda) By Johannes Hjorth
 * [Acetylcholine](https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
 * [Nitric oxide](https://github.com/jofrony/ChIN-LTS-Network-simulation) By Johanna Frost Nylen (jofrony)
 
