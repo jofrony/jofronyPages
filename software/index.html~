@@ -21,17 +21,10 @@
 <button>Change user</button>
 <script src="scripts/main.js"></script>
 
-<li class="nav-item">
-          <a href="software/index.html">
-            
-            <span>Software</span>
-            
-          </a>
-</li>
-
-
 <IMG SRC="video/SM2.gif">
 <p> Kozlov et al. 2009 </p>
 
 
-    
+
+</body>
+</html>
