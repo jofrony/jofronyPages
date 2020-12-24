@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>jofrony</title>
+
+    <meta name="author" content="Johanna Frost Nylen">
+    <meta name="description" content="My homepage.">
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  </head>
+  <body>
+
+
+<h1>Contact</h1>
+
+<h2> About </h2>
+
+<p> Project 1 description </p>
+
+<a href="templates/test-optimised-models.html">templates</a>
+
+
+
+<h3>email</h3>
+
+<p> johanna.frost.nylen@ki.se </p>
+
+
+
+</body>
+</html>
